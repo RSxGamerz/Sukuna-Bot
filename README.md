@@ -22,8 +22,8 @@
 ## Thanks for Everything 
 - [XCN](https://github.com/RSxGamerz)
 
-![Total Repo views](<div class="github-card" data-github="RSxGamerz/Sukuna-Bot" data-width="400" data-height="" data-theme="medium"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>)
+![Total Repo views] <div class="github-card" data-github="RSxGamerz/Sukuna-Bot" data-width="400" data-height="" data-theme="medium"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 
 
  ### Simple Method 
@@ -39,7 +39,7 @@
 
 
 ### Guide
-> [Zero Two Wiki (Full Guide)](https://github.com/RSxGamerz/Sukuna-Bot/wiki) 
+> [Sukuna-Bot (Full Guide)](https://github.com/RSxGamerz/Sukuna-Bot/wiki) 
 
 ### The Hard Method (Not Recommend)
 ```js
