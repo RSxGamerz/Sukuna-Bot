@@ -31,7 +31,11 @@
   
 <summary>Click to read Deploy Manual</summary>
   
-<h3>All Deployment Tutorials has been moved to our <a herf="https://github.com/RSxGamerz/Sukuna-Bot/wikj">wiki</a></h3>
+<h3>❌ All Deployment Tutorials has been moved to our Wiki page, click the button below to visit the Wiki page.
+
+<p align="center">
+<a href="https://github.com/RSxGamerz/Sukuna-Bot/wiki/How-to-deploy-Sukuna-Bot"><img title="Wiki" src="https://img.shields.io/badge/WIKI-lime.svg?style=for-the-badge"></a>
+</p>
 </details>
 
 <br>
