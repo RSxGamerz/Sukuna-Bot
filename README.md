@@ -25,6 +25,8 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/RSxGamerz/Sukuna-Bot)](https://repl.it/@ZestyGamerz)
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/6iCvx5?referralCode=ODBW1s)
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RSxGamerz/Sukuna-Bot)
 
 <h2 align="center">✅ How To deploy - Step by Step ( Replit ) ✅
