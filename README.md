@@ -1,9 +1,8 @@
 <h1 align="center">😈 𝗦𝘂𝗸𝘂𝗻𝗮 𝗕𝗼𝘁 😈<br></h1>
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp9078722.jpg" alt="Sukuna Bot Thumbnail Picture" />
+  <img src="https://wallpapercave.com/dwp1x/wp10558044.jpg" alt="Sukuna Bot Thumbnail Picture" />
 </p>
 
-![cover](https://wallpapercave.com/dwp1x/wp9620299.jpg)
 <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff0000&center=true&vCenter=true&multiline=false&lines=SUKUNA+BOT+A+BEST+WHATSAPP+BOT" alt="">
 
 <p align="center">
