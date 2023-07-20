@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://wallpapercave.com/wp/wp9078722.jpg" alt="Sukuna Bot Thumbnail Picture" />
 </p>
-<a href="#" align="center"><img src="http://readme-typing-svg.herokuapp.com?color=ff0000&center=true&vCenter=true&multiline=false&lines=SUKUNA+BOT+A+BEST+WHATSAPP+BOT" alt="">
+<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff0000&center=true&vCenter=true&multiline=false&lines=SUKUNA+BOT+A+BEST+WHATSAPP+BOT" alt="">
 
 <p align="center"> 
   🤖🌟 A Modular WhatsApp Bot designed for both PM and Groups - To take your boring WhatsApp usage to a whole different level. 💬🚀
