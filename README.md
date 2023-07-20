@@ -18,12 +18,14 @@
 <a href="https://github.com/RSxGamerz/Sukuna-Bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
-## Thanks for Everything 
-- [XCN](https://github.com/RSxGamerz)
+ ### DEPLOY SUKUNA BOT 
 
- ### Simple Method 
-
-[![Run on Repl.it](https://repl.it/badge/github/RSxGamerz/Sukuna-Bot)](https://repl.it/@ZestyGamerz)
+<details close>
+<summary>Deploy in Replit</summary>
+  <br>
+  
+[![Run on Repl.it](https://repl.it/badge/github/RSxGamerz/Sukuna-Bot)](https://repl.it/@NabinSarkar)
+<br>
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/6iCvx5?referralCode=ODBW1s)
 
