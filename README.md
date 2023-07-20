@@ -16,12 +16,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RSxGamerz/Sukuna-Bot/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/RSxGamerz/Sukuna-Bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
-    
-    
-    
-  <a href="https://github.com/RSxGamerz/Sukuna-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/RSxGamerz/Sukuna-Bot/?style=social">
-  </a>
 
 <p align="center">
   <a href="httsp://github.com/RSxGamerz/Sukuna-Bot">
