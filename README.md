@@ -15,7 +15,7 @@
 <a href="https://github.com/RSxGamerz/Sukuna-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RSxGamerz/Sukuna-Bot?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/RSxGamerz/Sukuna-Bot/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=red"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RSxGamerz/Sukuna-Bot/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/RSxGamerz/Sukuna-Bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/RSxGamerz/Sukuna-Bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-lime.svg"></a>&nbsp;&nbsp;
 </p>
 
  ## DEPLOY SUKUNA BOT 
@@ -26,20 +26,10 @@
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/6iCvx5?referralCode=ODBW1s)
 
-<h2 align="center">✅ How To deploy - Step by Step ( Replit ) ✅
-</h2>
-
-<br>
-
-- Make an account in <a href="https://replit.com/">Replit</a>.</br>
-- Make a database account in <a href="https://www.mongodb.com/">MongoDB</a> r use the default one.</br>
-- Make a <a href="https://tenor.com/developer/keyregistration">TENOR_API_KEY</a> in google api.</br>
-- Get the MongoDB url and paste it in `config.js` and `env.example` files.</br>
-- Deploy bot to the Replit.</br>
-- Make `env.example` variables Secrets in Replit.</br>
-- Give an Random `SESSION_ID` ( Like "dlfhdsfhdsfh" or "fkdsfdhslfhklfd" ) and put it in a `Secrets`.</br>
-- Run and Wait until you get the `QR`.</br>
-- Enjoy...</br>
+## ✅ Sukuna Deploy and Hosting guide
+<details close>
+<summary>Click to read Deploy Manual</summary>
+<h3>
 
 <br>
 <h2 align="center">❌ How To deploy - Step by Step ( Termux ) ❌
