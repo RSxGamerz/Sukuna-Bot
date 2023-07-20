@@ -26,10 +26,11 @@
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/6iCvx5?referralCode=ODBW1s)
 
-## ✅ Sukuna Deploy and Hosting guide
+## ✅ HOW TO DEPLOY SUKUNA BOT
 <details close>
 <summary>Click to read Deploy Manual</summary>
-<h3>
+<h3>All Deployment Tutorials has been moved to our <a>wiki</a></h3>
+</details>
 
 <br>
 <h2 align="center">❌ How To deploy - Step by Step ( Termux ) ❌
