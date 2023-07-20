@@ -24,10 +24,6 @@
 ## Thanks for Everything 
 - [XCN](https://github.com/RSxGamerz)
 
-![Total Repo views]<div class="github-card" data-github="RSxGamerz/Sukuna-Bot" data-width="400" data-height="" data-theme="medium"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-
-
  ### Simple Method 
 
 [![Run on Repl.it](https://repl.it/badge/github/RSxGamerz/Sukuna-Bot)](https://repl.it/@ZestyGamerz)
