@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://wallpapercave.com/wp/wp9078722.jpg" alt="Sukuna Bot Thumbnail Picture" />
 </p>
+<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SUKUNA+BOT" alt="">
 
 <p align="center"> 
   🤖🌟 A Modular WhatsApp Bot designed for both PM and Groups - To take your boring WhatsApp usage to a whole different level. 💬🚀
@@ -32,16 +33,25 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RSxGamerz/Sukuna-Bot)
 
-## Whatsapp Group
+<h2 align="center">✔️ How To deploy - Step by Step ( Replit ) ✔️
+</h2>
 
-<a href="https://chat.whatsapp.com/FWZwvQBG40pI4KyQ2lEdTr"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<br>
 
+- Make an account in <a href="https://replit.com/">Replit</a>.</br>
+- Make a database account in <a href="https://www.mongodb.com/">MongoDB</a> r use the default one.</br>
+- Make a <a href="https://tenor.com/developer/keyregistration">TENOR_API_KEY</a> in google api.</br>
+- Get the MongoDB url and paste it in `config.js` and `env.example` files.</br>
+- Deploy bot to the Replit.</br>
+- Make `env.example` variables Secrets in Replit.</br>
+- Give an Random `SESSION_ID` ( Like "dlfhdsfhdsfh" or "fkdsfdhslfhklfd" ) and put it in a `Secrets`.</br>
+- Run and Wait until you get the `QR`.</br>
+- Enjoy...</br>
 
+<br>
+<h2 align="center">❌ How To deploy - Step by Step ( Termux ) ❌
+</h2>
 
-### Guide
-> [Sukuna-Bot (Full Guide)](https://github.com/RSxGamerz/Sukuna-Bot/wiki) 
-
-### The Hard Method (Not Recommend)
 ```js
 apt update
 apt upgrade
@@ -57,6 +67,15 @@ git clone https://github.com/RSxGamerz/Sukuna-Bot
 cd Sukuna-Bot
 npm start
 ```
+
+## Whatsapp Group
+
+<a href="https://chat.whatsapp.com/FWZwvQBG40pI4KyQ2lEdTr"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+
+### Guide
+> [Sukuna-Bot (Full Guide ```Coming Soon```)](https://github.com/RSxGamerz/Sukuna-Bot/wiki) 
 
 ### ⚠️ Warning! 
 ```
