@@ -22,7 +22,7 @@
 
 <details close>
 <summary>Deploy in Replit</summary>
-  <br>
+  <br><br>
   
 [![Run on Repl.it](https://repl.it/badge/github/RSxGamerz/Sukuna-Bot)](https://repl.it/@NabinSarkar)
 <br>
