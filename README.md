@@ -3,7 +3,7 @@
   <img src="https://wallpapercave.com/wp/wp10558044.jpg" alt="Sukuna Bot Thumbnail Picture" />
 </p>
 
-<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff0000&center=true&vCenter=true&multiline=false&lines=SUKUNA+BOT+A+BEST+WHATSAPP+BOT" alt="">
+<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff0000&center=true&vCenter=true&multiline=false&lines=SUKUNA+BOT" alt="">
 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-RSxGamerz-blue.svg?style=for-the-badge&logo=github"></a>
@@ -18,12 +18,12 @@
 <a href="https://github.com/RSxGamerz/Sukuna-Bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
- ### DEPLOY SUKUNA BOT 
+ ## DEPLOY SUKUNA BOT 
 
- 
+ <h3>Deploy in Repl.it<h3>
+
+
 [![Run on Repl.it](https://repl.it/badge/github/RSxGamerz/Sukuna-Bot)](https://repl.it/@NabinSarkar)
-<br>
-<h2>Deploy in Repl.it<h2>
   
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/6iCvx5?referralCode=ODBW1s)
 
