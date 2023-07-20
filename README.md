@@ -26,7 +26,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RSxGamerz/Sukuna-Bot)
 
-<h2 align="center">✔️ How To deploy - Step by Step ( Replit ) ✔️
+<h2 align="center">✅ How To deploy - Step by Step ( Replit ) ✅
 </h2>
 
 <br>
