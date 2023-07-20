@@ -26,10 +26,12 @@
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/6iCvx5?referralCode=ODBW1s)
 
-## ✅ HOW TO DEPLOY SUKUNA BOT
+## ❓ HOW TO DEPLOY SUKUNA BOT
 <details close>
+  
 <summary>Click to read Deploy Manual</summary>
-<h3>All Deployment Tutorials has been moved to our <a>wiki</a></h3>
+  
+<h3>All Deployment Tutorials has been moved to our <a herf="https://github.com/RSxGamerz/Sukuna-Bot/wikj">wiki</a></h3>
 </details>
 
 <br>
