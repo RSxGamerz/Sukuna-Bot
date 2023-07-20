@@ -4,12 +4,8 @@
 </p>
 <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff0000&center=true&vCenter=true&multiline=false&lines=SUKUNA+BOT+A+BEST+WHATSAPP+BOT" alt="">
 
-<p align="center"> 
-  🤖🌟 A Modular WhatsApp Bot designed for both PM and Groups - To take your boring WhatsApp usage to a whole different level. 💬🚀
-
-</p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/RSxGamerz.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-RSxGamerz-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/RSxGamerz?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
