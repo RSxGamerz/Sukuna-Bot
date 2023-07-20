@@ -20,13 +20,11 @@
 
  ### DEPLOY SUKUNA BOT 
 
-<details close>
-<summary>Deploy in Replit</summary>
-  <br><br>
-  
+ 
 [![Run on Repl.it](https://repl.it/badge/github/RSxGamerz/Sukuna-Bot)](https://repl.it/@NabinSarkar)
 <br>
-
+<h2>Deploy in Repl.it<h2>
+  
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/6iCvx5?referralCode=ODBW1s)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RSxGamerz/Sukuna-Bot)
