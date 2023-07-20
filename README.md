@@ -14,12 +14,8 @@
 <a href="https://github.com/RSxGamerz/Sukuna-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RSxGamerz/Sukuna-Bot?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/RSxGamerz/Sukuna-Bot/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=red"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RSxGamerz/Sukuna-Bot/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/RSxGamerz/Sukuna-Bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/RSxGamerz/Sukuna-Bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-green.svg"></a>&nbsp;&nbsp;
 </p>
-
-<p align="center">
-  <a href="httsp://github.com/RSxGamerz/Sukuna-Bot">
-    <img src="https://img.shields.io/github/repo-size/Sampandey001/Zero-Two-Md?color=purple&label=Repo%20Size&style=plastic <p align="center">
 
 ## Thanks for Everything 
 - [XCN](https://github.com/RSxGamerz)
