@@ -6,13 +6,14 @@ RUN apt-get update && \
   imagemagick \
   webp && \
   apt-get upgrade -y && \
-  npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
 
 COPY package.json .
 
-RUN yarn install
+RUN npm install && npm install qrcode-terminal
 
 COPY . .
 
-CMD ["pm2-runtime", "."]
+EXPOSE 5000
+
+CMD ["npm", "start"]

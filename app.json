@@ -1,60 +1,49 @@
 {
   "name": "Sukuna-Bot",
-  "description": "The future of WhatsApp bots is now with plugin support.",
+  "description": " The best multitasking bot ever created.",
   "keywords": [
-    "bot",
-    "whatsapp",
-    "stickers",
-    "whatsapp-stickers",
+    "whatsapp bot",
     "anime",
+    "anime-bot",
     "whatsapp-bot",
-    "whatsapp-sticker-bot",
-    "whatsapp-botto",
-    "baileys",
-    "baileys-md",
-    "md-bot"
+    "whatsapp"
   ],
-  "website": "https://github.com/RSxGamerz/Sukuna-Bot#readme",
-  "repository": "https://github.com/RSxGamerz/Sukuna-Bot.git",
-  "logo": "https://avatarfiles.alphacoders.com/342/342694.png",
-  "success_url": "/",
+  "repository": "https://github.com/RSxGamerz/Sukuna-Bot",
+  "stack": "container",
   "env": {
-    "PREFIX": {
-      "description": "Prefix of your bot Ex: . , / , # , & etc. Put anythong except @ (Default is -)",
-      "required": false
+    "OPENAI_API_KEY": {
+      "description": "openai apikey",
+      "required": false,
+      "value": ""
     },
-    "SESSION_ID": {
-      "description": "A random string for your bot session. Which works as an OTP to get qr code. You have to change session every time to get a new qr."
+    "OPENAI_ORGANIZATION": {
+      "description": "openai organisation id",
+      "required": false,
+      "value": ""
     },
-    "MODS": {
-      "description": "Put any phone number without + , () and spaces \",\" Ex: 918101187835,929864781259 )",
-      "required": false
+    "MONGO_DB": {
+      "description": "your mongodb database url",
+      "required": false,
+      "value": ""
     },
-    "TENOR_API_KEY": {
-      "description": "A key used for gif searches. If you don't have any keet it default: AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c",
-      "required": false
-    },
-    "PACKNAME": {
-      "description": "Put a sticker packname here. Default is: Atlas Bot",
-      "required": false
-    },
-    "MONGODB": {
-      "description": "Put Your MongoDB URL. You can create MongoDB Atlas URL for free."
-    },
-    "OPENAI_API": {
-      "description": "Put your OpenAI API key here if you want to use ChatGPT and DALL-E.",
-      "required": false
+    "REMOVE_BG_API_KEY": {
+      "description": "removebg api key",
+      "required": false,
+      "value": ""
     }
-  },
-  "buildpacks": [
+    },
+    "buildpacks": [
     {
       "url": "heroku/nodejs"
     },
     {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
   ]
 }
