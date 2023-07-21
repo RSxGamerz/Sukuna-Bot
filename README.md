@@ -3,7 +3,7 @@
   <img src="https://wallpapercave.com/wp/wp10558044.jpg" alt="Sukuna Bot Thumbnail Picture" />
 </p>
 
-<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff0000&center=true&vCenter=true&multiline=false&lines=SUKUNA+BOT+V2.5" alt="">
+<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff0000&center=true&vCenter=true&multiline=false&lines=SUKUNA+BOT+V2.5+UPDATE" alt="">
 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-RSxGamerz-blue.svg?style=for-the-badge&logo=github"></a>
@@ -35,7 +35,7 @@
 
 
 <p align="center">
-<a href="https://github.com/RSxGamerz/Sukuna-Bot/wiki/How-to-deploy-Sukuna-Bot"><img title="Wiki" src="https://img.shields.io/badge/WIKI-green.svg?style=for-the-badge"></a>
+<a href="https://github.com/RSxGamerz/Sukuna-Bot/Termux-Guide.md"><img title="Wiki" src="https://img.shields.io/badge/Termux-Guide-red.svg?style=for-the-badge"></a>
 </p>
 </details>
 
