@@ -40,7 +40,7 @@
 </details>
 
 <br>
-<h2 align="center">❌ How To deploy - Step by Step ( Termux ) ❌
+<h2 align="center">❌ HOW TO DEPLOY SUKUNA (```Termux```) ❌
 </h2>
 
 ```js
