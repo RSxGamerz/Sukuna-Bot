@@ -3,7 +3,7 @@
   <img src="https://wallpapercave.com/wp/wp10558044.jpg" alt="Sukuna Bot Thumbnail Picture" />
 </p>
 
-<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff0000&center=true&vCenter=true&multiline=false&lines=SUKUNA+BOT" alt="">
+<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff0000&center=true&vCenter=true&multiline=false&lines=SUKUNA+BOT+V2.5" alt="">
 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-RSxGamerz-blue.svg?style=for-the-badge&logo=github"></a>
