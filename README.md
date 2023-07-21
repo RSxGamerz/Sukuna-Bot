@@ -40,24 +40,18 @@
 </details>
 
 <br>
-<h2 align="center">❌ HOW TO DEPLOY SUKUNA (```Termux```) ❌
+<h2 align="center">❌ HOW TO DEPLOY SUKUNA ```Termux```
 </h2>
 
-```js
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone https://github.com/RSxGamerz/Sukuna-Bot
-cd Sukuna-Bot
-npm start
-```
+l</summary>
+  
+<h3>All Deployment Tutorials has been moved to our other page, click the button below to visit the page.
+
+
+<p align="center">
+<a href="https://github.com/RSxGamerz/Sukuna-Bot/wiki/How-to-deploy-Sukuna-Bot"><img title="Wiki" src="https://img.shields.io/badge/WIKI-green.svg?style=for-the-badge"></a>
+</p>
+</details>
 
 ## Whatsapp Group
 
