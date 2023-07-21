@@ -22,7 +22,7 @@
  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RSxGamerz/Sukuna-Bot)
 
-[![Run on Repl.it](https://repl.it/badge/github/RSxGamerz/Sukuna-Bot)](https://replit.com/@NabinSarkar/Sukuna-Bot?v=1)a)
+[![Run on Repl.it](https://repl.it/badge/github/RSxGamerz/Sukuna-Bot)](https://replit.com/@NabinSarkar/Sukuna-Bot?v=1)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/6iCvx5?referralCode=ODBW1s)
 
@@ -40,16 +40,16 @@
 </details>
 
 <br>
-<h2 align="center">❌ HOW TO DEPLOY SUKUNA ```Termux```
+<h2 align="center">🗒️ HOW TO DEPLOY SUKUNA (TERMUX)
 </h2>
 
-l</summary>
+</summary>
   
 <h3>All Deployment Tutorials has been moved to our other page, click the button below to visit the page.
 
 
 <p align="center">
-<a href="https://github.com/RSxGamerz/Sukuna-Bot/wiki/How-to-deploy-Sukuna-Bot"><img title="Wiki" src="https://img.shields.io/badge/WIKI-green.svg?style=for-the-badge"></a>
+<a href="https://github.com/RSxGamerz/Sukuna-Bot/Termux-Guide.md"><img title="Visit Page" src="https://img.shields.io/badge/WIKI-green.svg?style=for-the-badge"></a>
 </p>
 </details>
 
